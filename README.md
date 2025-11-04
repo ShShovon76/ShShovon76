@@ -1,6 +1,6 @@
 # 👋 Hi, I'm S.H. Shovon
 
-💻 **Full-Stack Web Developer   
+💻 **Full-Stack Web Developer**   
 🎓 MBA in HRM | 🌍 Dhaka, Bangladesh  
 📧 Email: **shshovon76@gmail.com**
 
