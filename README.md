@@ -49,9 +49,13 @@ My academic background includes an MBA in HRM, which strengthens my ability to u
 - HR Analytics & People-focused tech solutions  
 - Software architecture & backend performance  
 
- 📈 GitHub Stats
+---
+
+## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShShovon76&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShShovon76&layout=compact&theme=tokyonight)
+
+---
 
  🌐 Connect With Me
 
