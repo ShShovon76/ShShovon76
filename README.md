@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I am a motivated ** Software Developer** with hands-on experience building **full-stack web applications and cross-platform mobile apps**.
+I am a motivated **Software Developer** with hands-on experience building **full-stack web applications and cross-platform mobile apps**.
 
 💡 I specialize in:
 - Backend development using **Java & Spring Boot**
